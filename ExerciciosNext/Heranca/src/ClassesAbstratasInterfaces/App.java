@@ -5,5 +5,7 @@ public class App {
         Quadrilatero r1 = new Retangulo(10f,15f);
         r1.calcularPerimetro();
         r1.calcularArea();
+        r1.imprimirPerimetro();
+        r1.imprimirArea();
     }
 }
